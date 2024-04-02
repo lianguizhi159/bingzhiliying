@@ -9,56 +9,56 @@
           "online": "https://github.com/ArduCAM/RPI-Pico-Cam"
       },
       "platforms": [
-          {
-            "category": "Contributed",
-            "name": "ArducamPico4ML",
-            "url": "https://github.com/ArduCAM/RPI-Pico-Cam/releases/download/pico4ml_v1.0.1/ArducamPico4ML-1.0.1.zip",
-            "version": "1.0.1",
-            "architecture": "ArducamPico4ML",
-            "archiveFileName": "ArducamPico4ML-1.0.1.zip",
-            "boards": [
-                {
-                    "name": "ArducamPico4ML"
-                }
-            ],
-            "toolsDependencies": [
+        {
+          "category": "Contributed",
+          "name": "ArducamPico4ML",
+          "url": "https://github.com/ArduCAM/RPI-Pico-Cam/releases/download/pico4ml_v1.0.1/ArducamPico4ML-1.0.1.zip",
+          "version": "1.0.1",
+          "architecture": "ArducamPico4ML",
+          "archiveFileName": "ArducamPico4ML-1.0.1.zip",
+          "boards": [
               {
-                "packager": "Arducam",
-                "version": "1.1.0-a-81a1771",
-                "name": "pqt-gcc"
-              },
-              {
-                "packager": "Arducam",
-                "version": "1.1.0-a-81a1771",
-                "name": "pqt-mklittlefs"
-              },
-              {
-                "packager": "Arducam",
-                "version": "1.1.0-a-81a1771",
-                "name": "pqt-elf2uf2"
-              },
-              {
-                "packager": "Arducam",
-                "version": "1.1.0-a-81a1771",
-                "name": "pqt-pioasm"
-              },
-              {
-                "packager": "Arducam",
-                "version": "1.0.1-base-3a57aed",
-                "name": "pqt-python3"
-              },
-              {
-                "packager": "Arducam",
-                "version": "1.1.0-a-81a1771",
-                "name": "pqt-openocd"
+                  "name": "ArducamPico4ML"
               }
-            ],
-            "help": {
-                "online": ""
-            },
-            "size": "11512141",
-            "checksum": "SHA-256:423cebfb5aa8e4f9b8f64df41b594db6bc0aaa905a184db84199ed2ffb9cbad4"
-        },
+          ],
+          "toolsDependencies": [
+              {
+                  "packager": "Arducam",
+                  "version": "1.1.0-a-81a1771",
+                  "name": "pqt-gcc"
+              },
+              {
+                  "packager": "Arducam",
+                  "version": "1.1.0-a-81a1771",
+                  "name": "pqt-mklittlefs"
+              },
+              {
+                  "packager": "Arducam",
+                  "version": "1.1.0-a-81a1771",
+                  "name": "pqt-elf2uf2"
+              },
+              {
+                  "packager": "Arducam",
+                  "version": "1.1.0-a-81a1771",
+                  "name": "pqt-pioasm"
+              },
+              {
+                  "packager": "Arducam",
+                  "version": "1.0.1-base-3a57aed",
+                  "name": "pqt-python3"
+              },
+              {
+                  "packager": "Arducam",
+                  "version": "1.1.0-a-81a1771",
+                  "name": "pqt-openocd"
+              }
+          ],
+          "help": {
+              "online": ""
+          },
+          "size": "11512141",
+          "checksum": "SHA-256:423cebfb5aa8e4f9b8f64df41b594db6bc0aaa905a184db84199ed2ffb9cbad4"
+      },
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
