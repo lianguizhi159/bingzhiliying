@@ -58,7 +58,7 @@
           },
           "size": "11512141",
           "checksum": "SHA-256:423cebfb5aa8e4f9b8f64df41b594db6bc0aaa905a184db84199ed2ffb9cbad4"
-      },
+        },
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
@@ -178,7 +178,7 @@
           "archiveFileName": "rp2040-3.7.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -233,7 +233,7 @@
           "archiveFileName": "rp2040-3.6.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -288,7 +288,7 @@
           "archiveFileName": "rp2040-3.6.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -343,7 +343,7 @@
           "archiveFileName": "rp2040-3.6.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -398,7 +398,7 @@
           "archiveFileName": "rp2040-3.6.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -453,7 +453,7 @@
           "archiveFileName": "rp2040-3.5.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -508,7 +508,7 @@
           "archiveFileName": "rp2040-3.4.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -563,7 +563,7 @@
           "archiveFileName": "rp2040-3.4.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -618,7 +618,7 @@
           "archiveFileName": "rp2040-3.3.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -673,7 +673,7 @@
           "archiveFileName": "rp2040-3.3.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -728,7 +728,7 @@
           "archiveFileName": "rp2040-3.3.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -783,7 +783,7 @@
           "archiveFileName": "rp2040-3.2.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -838,7 +838,7 @@
           "archiveFileName": "rp2040-3.2.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -893,7 +893,7 @@
           "archiveFileName": "rp2040-3.2.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -948,7 +948,7 @@
           "archiveFileName": "rp2040-3.1.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1003,7 +1003,7 @@
           "archiveFileName": "rp2040-3.1.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1058,7 +1058,7 @@
           "archiveFileName": "rp2040-3.0.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1107,13 +1107,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.3/Arducam-2.7.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.3/rp2040-2.7.3.zip",
           "version": "2.7.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.7.3.zip",
+          "archiveFileName": "rp2040-2.7.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1162,13 +1162,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.2/Arducam-2.7.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.2/rp2040-2.7.2.zip",
           "version": "2.7.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.7.2.zip",
+          "archiveFileName": "rp2040-2.7.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1217,13 +1217,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.1/Arducam-2.7.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.1/rp2040-2.7.1.zip",
           "version": "2.7.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.7.1.zip",
+          "archiveFileName": "rp2040-2.7.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1272,13 +1272,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.0/Arducam-2.7.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.7.0/rp2040-2.7.0.zip",
           "version": "2.7.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.7.0.zip",
+          "archiveFileName": "rp2040-2.7.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1322,13 +1322,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.5/Arducam-2.6.5.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.5/rp2040-2.6.5.zip",
           "version": "2.6.5",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.5.zip",
+          "archiveFileName": "rp2040-2.6.5.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1372,13 +1372,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.4/Arducam-2.6.4.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.4/rp2040-2.6.4.zip",
           "version": "2.6.4",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.4.zip",
+          "archiveFileName": "rp2040-2.6.4.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1422,13 +1422,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.3/Arducam-2.6.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.3/rp2040-2.6.3.zip",
           "version": "2.6.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.3.zip",
+          "archiveFileName": "rp2040-2.6.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1472,13 +1472,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.2/Arducam-2.6.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.2/rp2040-2.6.2.zip",
           "version": "2.6.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.2.zip",
+          "archiveFileName": "rp2040-2.6.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1522,13 +1522,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.1/Arducam-2.6.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.1/rp2040-2.6.1.zip",
           "version": "2.6.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.1.zip",
+          "archiveFileName": "rp2040-2.6.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1572,115 +1572,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.0/Arducam-2.6.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.6.0/rp2040-2.6.0.zip",
           "version": "2.6.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.6.0.zip",
+          "archiveFileName": "rp2040-2.6.0.zip",
           "boards": [
             {
-              "name": "Contributed"
-            },
-            {
-              "name": "Contributed W"
-            },
-            {
-              "name": "Adafruit Feather Arducam"
-            },
-            {
-              "name": "Adafruit ItsyBitsy Arducam"
-            },
-            {
-              "name": "Adafruit QT Py Arducam"
-            },
-            {
-              "name": "Adafruit STEMMA Friend Arducam"
-            },
-            {
-              "name": "Adafruit Trinkey Arducam QT"
-            },
-            {
-              "name": "Adafruit MacroPad Arducam"
-            },
-            {
-              "name": "Adafruit KB2040"
-            },
-            {
-              "name": "Arduino Nano Arducam Connect"
-            },
-            {
-              "name": "Cytron Maker Nano Arducam"
-            },
-            {
-              "name": "Cytron Maker Pi Arducam"
-            },
-            {
-              "name": "DeRuiLab FlyBoard2040Core"
-            },
-            {
-              "name": "DFRobot Beetle Arducam"
-            },
-            {
-              "name": "ElectronicCats HunterCat NFC Arducam"
-            },
-            {
-              "name": "ExtremeElectronics RC2040"
-            },
-            {
-              "name": "iLabs Challenger 2040 LTE"
-            },
-            {
-              "name": "iLabs Challenger 2040 LoRa"
-            },
-            {
-              "name": "iLabs Challenger 2040 SubGHz"
-            },
-            {
-              "name": "iLabs Challenger 2040 WiFi"
-            },
-            {
-              "name": "iLabs Challenger 2040 WiFi/BLE"
-            },
-            {
-              "name": "iLabs Challenger NB 2040 WiFi"
-            },
-            {
-              "name": "iLabs Challenger 2040 SD/RTC"
-            },
-            {
-              "name": "iLabs Challenger 2040 NFC"
-            },
-            {
-              "name": "iLabs RPICO32"
-            },
-            {
-              "name": "Melopero Shake Arducam"
-            },
-            {
-              "name": "Solder Party Arducam Stamp"
-            },
-            {
-              "name": "SparkFun ProMicro Arducam"
-            },
-            {
-              "name": "SparkFun Thing Plus Arducam"
-            },
-            {
-              "name": "uPesy Arducam DevKit"
-            },
-            {
-              "name": "Seeed XIAO Arducam"
-            },
-            {
-              "name": "WIZnet W5100S-EVB-Pico"
-            },
-            {
-              "name": "WIZnet WizFi360-EVB-Pico"
-            },
-            {
-              "name": "WIZnet W5500-EVB-Pico"
-            },
-            {
-              "name": "Generic Arducam"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1724,13 +1622,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.4/Arducam-2.5.4.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.4/rp2040-2.5.4.zip",
           "version": "2.5.4",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.5.4.zip",
+          "archiveFileName": "rp2040-2.5.4.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }  
           ],
           "toolsDependencies": [
@@ -1774,13 +1672,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.3/Arducam-2.5.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.3/rp2040-2.5.3.zip",
           "version": "2.5.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.5.3.zip",
+          "archiveFileName": "rp2040-2.5.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1824,13 +1722,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.2/Arducam-2.5.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.2/rp2040-2.5.2.zip",
           "version": "2.5.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.5.2.zip",
+          "archiveFileName": "rp2040-2.5.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1874,13 +1772,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.1/Arducam-2.5.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.1/rp2040-2.5.1.zip",
           "version": "2.5.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.5.1.zip",
+          "archiveFileName": "rp2040-2.5.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1924,13 +1822,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.0/Arducam-2.5.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.5.0/rp2040-2.5.0.zip",
           "version": "2.5.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.5.0.zip",
+          "archiveFileName": "rp2040-2.5.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -1974,13 +1872,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.4.1/Arducam-2.4.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.4.1/rp2040-2.4.1.zip",
           "version": "2.4.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.4.1.zip",
+          "archiveFileName": "rp2040-2.4.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2024,13 +1922,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.4.0/Arducam-2.4.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.4.0/rp2040-2.4.0.zip",
           "version": "2.4.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.4.0.zip",
+          "archiveFileName": "rp2040-2.4.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2074,13 +1972,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.3/Arducam-2.3.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.3/rp2040-2.3.3.zip",
           "version": "2.3.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.3.3.zip",
+          "archiveFileName": "rp2040-2.3.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2124,13 +2022,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.2/Arducam-2.3.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.2/rp2040-2.3.2.zip",
           "version": "2.3.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.3.2.zip",
+          "archiveFileName": "rp2040-2.3.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2174,13 +2072,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.1/Arducam-2.3.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.1/rp2040-2.3.1.zip",
           "version": "2.3.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.3.1.zip",
+          "archiveFileName": "rp2040-2.3.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2224,13 +2122,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.0/Arducam-2.3.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.3.0/rp2040-2.3.0.zip",
           "version": "2.3.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.3.0.zip",
+          "archiveFileName": "rp2040-2.3.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2274,13 +2172,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.2/Arducam-2.2.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.2/rp2040-2.2.2.zip",
           "version": "2.2.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.2.2.zip",
+          "archiveFileName": "rp2040-2.2.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2324,13 +2222,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.1/Arducam-2.2.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.1/rp2040-2.2.1.zip",
           "version": "2.2.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.2.1.zip",
+          "archiveFileName": "rp2040-2.2.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2374,13 +2272,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.0/Arducam-2.2.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.2.0/rp2040-2.2.0.zip",
           "version": "2.2.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.2.0.zip",
+          "archiveFileName": "rp2040-2.2.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2424,13 +2322,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.1.1/Arducam-2.1.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.1.1/rp2040-2.1.1.zip",
           "version": "2.1.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.1.1.zip",
+          "archiveFileName": "rp2040-2.1.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2474,13 +2372,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.1.0/Arducam-2.1.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.1.0/rp2040-2.1.0.zip",
           "version": "2.1.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.1.0.zip",
+          "archiveFileName": "rp2040-2.1.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2524,13 +2422,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.3/Arducam-2.0.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.3/rp2040-2.0.3.zip",
           "version": "2.0.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.0.3.zip",
+          "archiveFileName": "rp2040-2.0.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2574,13 +2472,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.2/Arducam-2.0.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.2/rp2040-2.0.2.zip",
           "version": "2.0.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.0.2.zip",
+          "archiveFileName": "rp2040-2.0.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2624,13 +2522,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.1/Arducam-2.0.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.1/rp2040-2.0.1.zip",
           "version": "2.0.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.0.1.zip",
+          "archiveFileName": "rp2040-2.0.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2674,13 +2572,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.0/Arducam-2.0.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/2.0.0/rp2040-2.0.0.zip",
           "version": "2.0.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-2.0.0.zip",
+          "archiveFileName": "rp2040-2.0.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2724,13 +2622,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.3/Arducam-1.13.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.3/rp2040-1.13.3.zip",
           "version": "1.13.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.13.3.zip",
+          "archiveFileName": "rp2040-1.13.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2774,13 +2672,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.2/Arducam-1.13.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.2/rp2040-1.13.2.zip",
           "version": "1.13.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.13.2.zip",
+          "archiveFileName": "rp2040-1.13.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2824,13 +2722,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.1/Arducam-1.13.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.1/rp2040-1.13.1.zip",
           "version": "1.13.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.13.1.zip",
+          "archiveFileName": "rp2040-1.13.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2874,13 +2772,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.0/Arducam-1.13.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.13.0/rp2040-1.13.0.zip",
           "version": "1.13.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.13.0.zip",
+          "archiveFileName": "rp2040-1.13.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2924,13 +2822,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.12.0/Arducam-1.12.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.12.0/rp2040-1.12.0.zip",
           "version": "1.12.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.12.0.zip",
+          "archiveFileName": "rp2040-1.12.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -2974,13 +2872,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.11.0/Arducam-1.11.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.11.0/rp2040-1.11.0.zip",
           "version": "1.11.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.11.0.zip",
+          "archiveFileName": "rp2040-1.11.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3024,13 +2922,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.10.0/Arducam-1.10.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.10.0/rp2040-1.10.0.zip",
           "version": "1.10.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.10.0.zip",
+          "archiveFileName": "rp2040-1.10.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3074,13 +2972,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.15/Arducam-1.9.15.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.15/rp2040-1.9.15.zip",
           "version": "1.9.15",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.15.zip",
+          "archiveFileName": "rp2040-1.9.15.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3124,13 +3022,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.14/Arducam-1.9.14.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.14/rp2040-1.9.14.zip",
           "version": "1.9.14",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.14.zip",
+          "archiveFileName": "rp2040-1.9.14.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3174,13 +3072,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.13/Arducam-1.9.13.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.13/rp2040-1.9.13.zip",
           "version": "1.9.13",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.13.zip",
+          "archiveFileName": "rp2040-1.9.13.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3224,13 +3122,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.12/Arducam-1.9.12.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.12/rp2040-1.9.12.zip",
           "version": "1.9.12",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.12.zip",
+          "archiveFileName": "rp2040-1.9.12.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3274,13 +3172,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.11/Arducam-1.9.11.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.11/rp2040-1.9.11.zip",
           "version": "1.9.11",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.11.zip",
+          "archiveFileName": "rp2040-1.9.11.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3324,13 +3222,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.10/Arducam-1.9.10.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.10/rp2040-1.9.10.zip",
           "version": "1.9.10",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.10.zip",
+          "archiveFileName": "rp2040-1.9.10.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3374,13 +3272,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.9/Arducam-1.9.9.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.9/rp2040-1.9.9.zip",
           "version": "1.9.9",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.9.zip",
+          "archiveFileName": "rp2040-1.9.9.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3424,13 +3322,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.8/Arducam-1.9.8.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.8/rp2040-1.9.8.zip",
           "version": "1.9.8",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.8.zip",
+          "archiveFileName": "rp2040-1.9.8.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3474,13 +3372,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.7/Arducam-1.9.7.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.7/rp2040-1.9.7.zip",
           "version": "1.9.7",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.7.zip",
+          "archiveFileName": "rp2040-1.9.7.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3524,13 +3422,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.6/Arducam-1.9.6.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.6/rp2040-1.9.6.zip",
           "version": "1.9.6",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.6.zip",
+          "archiveFileName": "rp2040-1.9.6.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3574,13 +3472,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.5/Arducam-1.9.5.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.5/rp2040-1.9.5.zip",
           "version": "1.9.5",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.5.zip",
+          "archiveFileName": "rp2040-1.9.5.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3624,13 +3522,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.4/Arducam-1.9.4.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.4/rp2040-1.9.4.zip",
           "version": "1.9.4",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.4.zip",
+          "archiveFileName": "rp2040-1.9.4.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3674,13 +3572,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.3/Arducam-1.9.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.3/rp2040-1.9.3.zip",
           "version": "1.9.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.3.zip",
+          "archiveFileName": "rp2040-1.9.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3724,13 +3622,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.2/Arducam-1.9.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.2/rp2040-1.9.2.zip",
           "version": "1.9.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.2.zip",
+          "archiveFileName": "rp2040-1.9.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3774,13 +3672,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.1/Arducam-1.9.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.1/rp2040-1.9.1.zip",
           "version": "1.9.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.1.zip",
+          "archiveFileName": "rp2040-1.9.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3824,13 +3722,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.0/Arducam-1.9.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.9.0/rp2040-1.9.0.zip",
           "version": "1.9.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.9.0.zip",
+          "archiveFileName": "rp2040-1.9.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3874,13 +3772,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.8/Arducam-1.8.8.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.8/rp2040-1.8.8.zip",
           "version": "1.8.8",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.8.zip",
+          "archiveFileName": "rp2040-1.8.8.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3924,13 +3822,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.7/Arducam-1.8.7.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.7/rp2040-1.8.7.zip",
           "version": "1.8.7",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.7.zip",
+          "archiveFileName": "rp2040-1.8.7.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -3974,13 +3872,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.6/Arducam-1.8.6.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.6/rp2040-1.8.6.zip",
           "version": "1.8.6",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.6.zip",
+          "archiveFileName": "rp2040-1.8.6.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4024,13 +3922,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.5/Arducam-1.8.5.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.5/rp2040-1.8.5.zip",
           "version": "1.8.5",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.5.zip",
+          "archiveFileName": "rp2040-1.8.5.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4074,13 +3972,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.4/Arducam-1.8.4.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.4/rp2040-1.8.4.zip",
           "version": "1.8.4",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.4.zip",
+          "archiveFileName": "rp2040-1.8.4.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4124,13 +4022,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.3/Arducam-1.8.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.3/rp2040-1.8.3.zip",
           "version": "1.8.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.3.zip",
+          "archiveFileName": "rp2040-1.8.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4174,13 +4072,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.2/Arducam-1.8.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.2/rp2040-1.8.2.zip",
           "version": "1.8.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.2.zip",
+          "archiveFileName": "rp2040-1.8.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4224,13 +4122,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.1/Arducam-1.8.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.1/rp2040-1.8.1.zip",
           "version": "1.8.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.1.zip",
+          "archiveFileName": "rp2040-1.8.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4274,13 +4172,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.0/Arducam-1.8.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.8.0/rp2040-1.8.0.zip",
           "version": "1.8.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.8.0.zip",
+          "archiveFileName": "rp2040-1.8.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4324,13 +4222,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.7.1/Arducam-1.7.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.7.1/rp2040-1.7.1.zip",
           "version": "1.7.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.7.1.zip",
+          "archiveFileName": "rp2040-1.7.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4374,13 +4272,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.7.0/Arducam-1.7.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.7.0/rp2040-1.7.0.zip",
           "version": "1.7.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.7.0.zip",
+          "archiveFileName": "rp2040-1.7.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4424,13 +4322,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.2/Arducam-1.6.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.2/rp2040-1.6.2.zip",
           "version": "1.6.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.6.2.zip",
+          "archiveFileName": "rp2040-1.6.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4474,13 +4372,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.1/Arducam-1.6.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.1/rp2040-1.6.1.zip",
           "version": "1.6.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.6.1.zip",
+          "archiveFileName": "rp2040-1.6.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4524,13 +4422,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.0/Arducam-1.6.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.6.0/rp2040-1.6.0.zip",
           "version": "1.6.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.6.0.zip",
+          "archiveFileName": "rp2040-1.6.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4574,13 +4472,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.5.1/Arducam-1.5.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.5.1/rp2040-1.5.1.zip",
           "version": "1.5.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.5.1.zip",
+          "archiveFileName": "rp2040-1.5.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4624,13 +4522,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.5.0/Arducam-1.5.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.5.0/rp2040-1.5.0.zip",
           "version": "1.5.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.5.0.zip",
+          "archiveFileName": "rp2040-1.5.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4674,13 +4572,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.4.0/Arducam-1.4.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.4.0/rp2040-1.4.0.zip",
           "version": "1.4.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.4.0.zip",
+          "archiveFileName": "rp2040-1.4.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4724,13 +4622,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.3.1/Arducam-1.3.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.3.1/rp2040-1.3.1.zip",
           "version": "1.3.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.3.1.zip",
+          "archiveFileName": "rp2040-1.3.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4774,13 +4672,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.3.0/Arducam-1.3.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.3.0/rp2040-1.3.0.zip",
           "version": "1.3.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.3.0.zip",
+          "archiveFileName": "rp2040-1.3.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4824,13 +4722,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.2/Arducam-1.2.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.2/rp2040-1.2.2.zip",
           "version": "1.2.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.2.2.zip",
+          "archiveFileName": "rp2040-1.2.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4874,13 +4772,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.1/Arducam-1.2.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.1/rp2040-1.2.1.zip",
           "version": "1.2.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.2.1.zip",
+          "archiveFileName": "rp2040-1.2.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4924,13 +4822,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.0/Arducam-1.2.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.2.0/rp2040-1.2.0.zip",
           "version": "1.2.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.2.0.zip",
+          "archiveFileName": "rp2040-1.2.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -4974,13 +4872,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.1.0/Arducam-1.1.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.1.0/rp2040-1.1.0.zip",
           "version": "1.1.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.1.0.zip",
+          "archiveFileName": "rp2040-1.1.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -5024,13 +4922,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.3/Arducam-1.0.3.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.3/rp2040-1.0.3.zip",
           "version": "1.0.3",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.0.3.zip",
+          "archiveFileName": "rp2040-1.0.3.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -5074,13 +4972,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.2/Arducam-1.0.2.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.2/rp2040-1.0.2.zip",
           "version": "1.0.2",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.0.2.zip",
+          "archiveFileName": "rp2040-1.0.2.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -5124,13 +5022,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.1/Arducam-1.0.1.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.1/rp2040-1.0.1.zip",
           "version": "1.0.1",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.0.1.zip",
+          "archiveFileName": "rp2040-1.0.1.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
@@ -5174,13 +5072,13 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.0/Arducam-1.0.0.zip",
+          "url": "https://github.com/earlephilhower/arduino-pico/releases/download/1.0.0/rp2040-1.0.0.zip",
           "version": "1.0.0",
           "architecture": "Arducam",
-          "archiveFileName": "Arducam-1.0.0.zip",
+          "archiveFileName": "rp2040-1.0.0.zip",
           "boards": [
             {
-              "name": "Contributed"
+              "name": "ArducamPico4ML"
             }
           ],
           "toolsDependencies": [
