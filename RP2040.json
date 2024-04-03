@@ -12,10 +12,10 @@
         {
           "category": "Contributed",
           "name": "ArducamPico4ML",
-          "url": "https://github.com/lianguizhi159/bingzhiliying/releases/download/ArducamPico4ML-3.7.2/rp2040-3.7.2.zip",
-          "version": "3.7.2",
+          "url": "https://github.com/lianguizhi159/bingzhiliying/releases/download/ArducamPico4ML-1.0.2/ArducamPico4ML-1.0.2.zip",
+          "version": "1.0.2",
           "architecture": "ArducamPico4ML",
-          "archiveFileName": "rp2040-3.7.2.zip",
+          "archiveFileName": "ArducamPico4ML-1.0.2.zip",
           "boards": [
             {
               "name": "ArducamPico4ML"
@@ -56,8 +56,8 @@
           "help": {
             "online": ""
           },
-          "size": "86316072",
-          "checksum": "SHA-256:53398d17768820d9344aa2b16c1c63dd599c0dd0c811310d3c25a76ab51f127f"
+          "size": "91066410",
+          "checksum": "SHA-256:a770a7c3280cd020387b2399811bb8e41ae782da1251fdce84b325361d851100"
         }
       ],
       "tools": [
