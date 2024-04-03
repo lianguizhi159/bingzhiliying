@@ -24,22 +24,22 @@
           "toolsDependencies": [
             {
               "packager": "Arducam",
-              "version": "2.2.0-d04e724",
+              "version": "1.1.0-a-81a1771",
               "name": "pqt-gcc"
             },
             {
               "packager": "Arducam",
-              "version": "2.2.0-d04e724",
+              "version": "1.1.0-a-81a1771",
               "name": "pqt-mklittlefs"
             },
             {
               "packager": "Arducam",
-              "version": "2.2.0-d04e724",
+              "version": "1.1.0-a-81a1771",
               "name": "pqt-elf2uf2"
             },
             {
               "packager": "Arducam",
-              "version": "2.2.0-d04e724",
+              "version": "1.1.0-a-81a1771",
               "name": "pqt-pioasm"
             },
             {
@@ -49,13 +49,8 @@
             },
             {
               "packager": "Arducam",
-              "version": "2.2.0-d04e724",
+              "version": "1.1.0-a-81a1771",
               "name": "pqt-openocd"
-            },
-            {
-              "packager": "Arducam",
-              "version": "2.2.0-d04e724",
-              "name": "pqt-picotool"
             }
           ],
           "help": {
