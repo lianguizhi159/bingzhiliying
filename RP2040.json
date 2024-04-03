@@ -124,7 +124,7 @@
           "name": "ArducamPico4ML",
           "url": "https://github.com/earlephilhower/arduino-pico/releases/download/3.7.0/rp2040-3.7.0.zip",
           "version": "3.7.0",
-          "architecture": "ArducamPico4ML",
+          "architecture": "Arducam",
           "archiveFileName": "rp2040-3.7.0.zip",
           "boards": [
             {
@@ -234,7 +234,7 @@
           "name": "ArducamPico4ML",
           "url": "https://github.com/earlephilhower/arduino-pico/releases/download/3.6.2/rp2040-3.6.2.zip",
           "version": "3.6.2",
-          "architecture": "ArducamPico4ML",
+          "architecture": "Arducam",
           "archiveFileName": "rp2040-3.6.2.zip",
           "boards": [
             {
